@@ -16,5 +16,5 @@
 }
 ```
 - 🔭 I’m currently working on [Nidcc](https://nidcc.gtcomnet.com/)
-- 🌱 <b>Learning:</b> Azure, AWS and Vuejs
+- 🌱 <b>Learning:</b> Azure and Vuejs
 - 🤔 <b>Exploring:</b> Golang
