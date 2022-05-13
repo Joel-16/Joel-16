@@ -10,7 +10,7 @@
       "language": ["javascript", "typescript", "python"],
       "backend": ["nestjs", "express", "nodejs", "ApolloGraphQl"],
       "database": ["MongoDB", "Postgres", "MySQL"],
-      "tools": ["heroku", "git", "socket.io", "typeORM"],
+      "tools": ["heroku", "git", "socket.io", "typeORM", "RabbitMQ"],
       "versioning": ["git"],
       "architecture" : ["REST", "GraphQL"]
 }
