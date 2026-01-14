@@ -7,14 +7,12 @@
 
 ```json
 {
-      "language": ["javascript", "typescript", "python"],
-      "backend": ["nestjs", "express", "nodejs", "ApolloGraphQl"],
+      "language": ["javascript", "typescript", "golang"],
+      "backend": ["nestjs", "express", "nodejs", "ApolloGraphQl", "GIN", "CHI", "FIBER"],
       "database": ["MongoDB", "Postgres", "MySQL"],
-      "tools": ["heroku", "git", "socket.io", "typeORM", "RabbitMQ"],
-      "versioning": ["git"],
+      "tools": ["typeORM", "RabbitMQ", "Mqtt", "gRpc", "GORM"],
       "architecture" : ["REST", "GraphQL"]
 }
 ```
-- 🔭 I’m currently working on [Nidcc](https://nidcc.gtcomnet.com/)
-- 🌱 <b>Learning:</b> Azure and Vuejs
-- 🤔 <b>Exploring:</b> Golang
+- 🌱 <b>Learning:</b> DotNet, C#
+- 🤔 <b>Exploring:</b> Kubernetes
